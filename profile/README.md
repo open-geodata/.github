@@ -1,7 +1,10 @@
-## Hi there 👋
+Open Geodata surge para criar facilita o acesso a informação geoespacial (e outras), seja por meio de rotinas (*scripts*) para raspagem de dados, seja por meio da disponibilização de dados tratados.
+
+Adicionalmente aos *scripts* e repositórios, também existe um [*site*](https://open-geodata.github.io/) que possibilita um acesso à informações para não-programadores.
+
+Os dados geoespaciais podem ser utilizados para diversas finalidades, mas cabe ressaltar que diversos dos projetos aqui divulgados foram feitos por um biólogo, para sanar problemas ambientais.
 
 
-🙋‍♀️ A short introduction - what is your organization all about?
 <!--
 
 **Here are some ideas to get you started:**
