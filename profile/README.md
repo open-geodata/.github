@@ -1,4 +1,4 @@
-Open Geodata surge para criar facilita o acesso a informação geoespacial (e outras), seja por meio de rotinas (*scripts*) para raspagem de dados, seja por meio da disponibilização de dados tratados.
+**Open Geodata** surge para criar facilita o acesso a informação geoespacial (e outras), seja por meio de rotinas (*scripts*) para raspagem de dados, seja por meio da disponibilização de dados tratados.
 
 Adicionalmente aos *scripts* e repositórios, também existe um [*site*](https://open-geodata.github.io/) que possibilita um acesso à informações para não-programadores.
 
