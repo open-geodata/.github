@@ -7,6 +7,10 @@ Os dados geoespaciais podem ser utilizados para diversas finalidades, mas cabe r
 
 <!--
 
+https://gist.github.com/joncardasis/e6494afd538a400722545163eb2e1fa5
+https://gist.github.com/tomac4t/16dc1e91d95c94f60251e586672b6314
+https://github.blog/changelog/2021-09-14-readmes-for-organization-profiles/
+
 **Here are some ideas to get you started:**
 
 
